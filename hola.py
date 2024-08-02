@@ -1,3 +1,6 @@
+# Programa ejemplo tomado de la pagina oficial del CustomTKinter
+#   https://customtkinter.tomschimansky.com/
+
 import customtkinter
 
 class App(customtkinter.CTk):
